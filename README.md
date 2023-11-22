@@ -1,5 +1,4 @@
 
-```markdown
 # Makeup Store Website
 
 Đây là dự án trang web giới thiệu và bán đồ trang điểm chất lượng cao. Trang web này được xây dựng sử dụng HTML, CSS, JavaScript, jQuery, PHP và tích hợp cơ sở dữ liệu SQL để lưu trữ thông tin sản phẩm.
